@@ -9,7 +9,7 @@
     name: nodejs
     state: present
     
-- name: create app directory
-  ansible.builtin.file:
-    path: /app
-    
+
+- name: install dependencies
+  community.general.npm:
+    path: /app 
