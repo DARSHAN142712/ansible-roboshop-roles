@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.daws84.xyz
-REDIS_HOST: redis.daws84s.xyz   
+ REDIS_HOST: redis.daws84s.xyz
+ CATALOGUE_HOST: catalogue.daws84s.xyz 
